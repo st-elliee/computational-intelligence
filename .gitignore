@@ -1,0 +1,17 @@
+# MATLAB
+*.asv
+*.m~
+slprj/
+
+# Office lock files
+~$*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large regenerated file (created by 03-tsk-regression/part2/step1_load_split.m)
+supercon_split.mat
+
+# Extracted automatically from train.zip by step1_load_split.m
+train.csv
